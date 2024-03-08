@@ -15,6 +15,7 @@ dependencies = [
     "redisearch~=2.1.0",
     "rapidfuzz~=2.15.0",
     "holidays~=0.28",
+    "pycups~=2.0.1",
 
     # integration dependencies
     "gocardless-pro~=1.22.0",
